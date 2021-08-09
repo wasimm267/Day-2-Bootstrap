@@ -1,0 +1,23 @@
+.txt_1{
+  margin-top: 50px;
+}
+.row{
+  height: 50vh;
+  background-color: black;
+}
+.hding{
+  border: black;
+  border-style: groove;
+  border-width: 2px;
+  font-family: serif;
+  background-color: black;
+  color: white;
+}
+.txt_cnt{
+  font-family: serif;
+  font-weight: bold;
+}
+.table{
+  margin-top: 10px;
+  height: 450px;
+}
